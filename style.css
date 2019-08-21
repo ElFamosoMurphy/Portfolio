@@ -1,10 +1,10 @@
 body {
-    background-color: black;
+    background-color: whitesmoke;
   }
 
   h2 {
     text-align: center;
-    color: white;
+    color: black;
     font-family: Archivo;
   }
 
@@ -20,7 +20,7 @@ body {
 .instagram{
   font-family: Archivo;
   font-size: 4em;
-  color: #fff;
+  color: black;
   text-transform: uppercase;
   text-decoration: none;
   position: absolute;
@@ -32,7 +32,7 @@ body {
 .email{
   font-family: Archivo;
   font-size: 4em;
-  color: #fff;
+  color: black;
   text-transform: uppercase;
   text-decoration: none;
   position: absolute;
@@ -56,12 +56,12 @@ body {
 .nav a {
     font-family: Archivo;
     text-decoration: none;
-    color: #fff;
+    color: black;
     display: inline-block;
     letter-spacing: 10px;
     transition: .3s background-color;
     width: 280px;
-    border-bottom: white;
+    border-bottom: black;
     height: 50px;
     line-height: 150px;
     font-size: 4em;
