@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.christianteixeira.com" resolutions="1x" timestamp="1566747541892">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.christianteixeira.com" resolutions="1x" timestamp="1566748774810">
   <folder name="assets">
     <file name="fuji-190731_190731-31.jpg" crc="4176340644" seo="true" mt="1564569371000"/>
     <file name="christian-teixeira-resume-2019-ux.pdf" crc="125835591" seo="true" mt="1566659038000"/>
@@ -15,13 +15,13 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3813948239"/>
-    <file name="master_a-master.css" crc="4175868007" ref="index:case-study-01"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:case-study-01"/>
-    <file name="index.css" crc="3994591866" ref="index"/>
-    <file name="nomq_index.css" crc="3932234016" ref="index"/>
+    <file name="master_a-master.css" crc="3809193390" ref="index:case-study-01"/>
+    <file name="nomq_preview_master_a-master.css" crc="3895356531" ref="index:case-study-01"/>
+    <file name="index.css" crc="3766776386" ref="index"/>
+    <file name="nomq_index.css" crc="206742925" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="case-study-01.css" crc="3954984641" ref="case-study-01"/>
-    <file name="nomq_case-study-01.css" crc="418942600" ref="case-study-01"/>
+    <file name="case-study-01.css" crc="3805796688" ref="case-study-01"/>
+    <file name="nomq_case-study-01.css" crc="4252184550" ref="case-study-01"/>
     <file name="iefonts_case-study-01.css" crc="3824530138" ref="case-study-01"/>
   </folder>
   <folder name="scripts">
@@ -36,6 +36,6 @@
     <file name="require.js" crc="7928878" ref="index:case-study-01"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:case-study-01"/>
   </folder>
-  <file name="index.html" crc="4084171339" seo="true" mt="1566747486651" redirect="true"/>
-  <file name="case-study-01.html" crc="4109854988" seo="true" mt="1566745985952" redirect="true"/>
+  <file name="index.html" crc="201192678" seo="true" mt="1566748759900" redirect="true"/>
+  <file name="case-study-01.html" crc="10204947" seo="true" mt="1566748474133" redirect="true"/>
 </manifest>
