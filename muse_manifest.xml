@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.christianteixeira.com" resolutions="1x" timestamp="1566748774810">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.christianteixeira.com" resolutions="1x" timestamp="1566749541780">
   <folder name="assets">
     <file name="fuji-190731_190731-31.jpg" crc="4176340644" seo="true" mt="1564569371000"/>
     <file name="christian-teixeira-resume-2019-ux.pdf" crc="125835591" seo="true" mt="1566659038000"/>
   </folder>
   <folder name="images">
-    <file name="nab-test4-u7555-fr.png" crc="39756209" ref="index:case-study-01"/>
+    <file name="nab-test4-u7555-fr.png" crc="39756209" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
     <file name="nab-test4-u13174-fr.png" crc="3905826809" ref="index"/>
     <file name="nab-test4-u7555-fr2.png" crc="3965062661" ref="index"/>
     <file name="nab-test4-u13174-fr2.png" crc="3860370560" ref="index"/>
@@ -14,28 +14,40 @@
     <file name="nab-test4-u7555-fr5.png" crc="17701300" ref="index"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="3813948239"/>
-    <file name="master_a-master.css" crc="3809193390" ref="index:case-study-01"/>
-    <file name="nomq_preview_master_a-master.css" crc="3895356531" ref="index:case-study-01"/>
-    <file name="index.css" crc="3766776386" ref="index"/>
-    <file name="nomq_index.css" crc="206742925" ref="index"/>
+    <file name="site_global.css" crc="14129631"/>
+    <file name="master_a-master.css" crc="3809193390" ref="index:case-study-01:case-study-03:case-study-04:case-study-02"/>
+    <file name="nomq_preview_master_a-master.css" crc="3895356531" ref="index:case-study-01:case-study-03:case-study-04:case-study-02"/>
+    <file name="index.css" crc="246594427" ref="index"/>
+    <file name="nomq_index.css" crc="3942270855" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="case-study-01.css" crc="3805796688" ref="case-study-01"/>
     <file name="nomq_case-study-01.css" crc="4252184550" ref="case-study-01"/>
     <file name="iefonts_case-study-01.css" crc="3824530138" ref="case-study-01"/>
+    <file name="case-study-03.css" crc="4091764760" ref="case-study-03"/>
+    <file name="nomq_case-study-03.css" crc="4139064662" ref="case-study-03"/>
+    <file name="iefonts_case-study-03.css" crc="3824530138" ref="case-study-03"/>
+    <file name="case-study-04.css" crc="3860820103" ref="case-study-04"/>
+    <file name="nomq_case-study-04.css" crc="164704626" ref="case-study-04"/>
+    <file name="iefonts_case-study-04.css" crc="3824530138" ref="case-study-04"/>
+    <file name="case-study-02.css" crc="4204296418" ref="case-study-02"/>
+    <file name="nomq_case-study-02.css" crc="4032966328" ref="case-study-02"/>
+    <file name="iefonts_case-study-02.css" crc="3824530138" ref="case-study-02"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:case-study-01"/>
-    <file name="museutils.js" crc="340535759" ref="index:case-study-01"/>
-    <file name="whatinput.js" crc="86476730" ref="index:case-study-01"/>
-    <file name="museconfig.js" crc="310584261" ref="index:case-study-01"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:case-study-01"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:case-study-01"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:case-study-01"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:case-study-01"/>
-    <file name="require.js" crc="7928878" ref="index:case-study-01"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:case-study-01"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
+    <file name="museutils.js" crc="340535759" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
+    <file name="whatinput.js" crc="86476730" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
+    <file name="museconfig.js" crc="310584261" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
+    <file name="require.js" crc="7928878" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
   </folder>
-  <file name="index.html" crc="201192678" seo="true" mt="1566748759900" redirect="true"/>
-  <file name="case-study-01.html" crc="10204947" seo="true" mt="1566748474133" redirect="true"/>
+  <file name="index.html" crc="4030597423" seo="true" mt="1566749383136" redirect="true"/>
+  <file name="case-study-01.html" crc="1796764" seo="true" mt="1566749109722" redirect="true"/>
+  <file name="case-study-02.html" crc="4115399852" seo="true" mt="1566749484095" redirect="true"/>
+  <file name="case-study-03.html" crc="271560913" seo="true" mt="1566749499986" redirect="true"/>
+  <file name="case-study-04.html" crc="3804537367" seo="true" mt="1566749518053" redirect="true"/>
 </manifest>
