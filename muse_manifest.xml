@@ -1,24 +1,49 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.christianteixeira.com" resolutions="1x" timestamp="1566749541780">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.christianteixeira.com" resolutions="1x" timestamp="1566832184698">
   <folder name="assets">
     <file name="fuji-190731_190731-31.jpg" crc="4176340644" seo="true" mt="1564569371000"/>
     <file name="christian-teixeira-resume-2019-ux.pdf" crc="125835591" seo="true" mt="1566659038000"/>
   </folder>
   <folder name="images">
-    <file name="nab-test4-u7555-fr.png" crc="39756209" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
-    <file name="nab-test4-u13174-fr.png" crc="3905826809" ref="index"/>
-    <file name="nab-test4-u7555-fr2.png" crc="3965062661" ref="index"/>
-    <file name="nab-test4-u13174-fr2.png" crc="3860370560" ref="index"/>
-    <file name="nab-test4-u7555-fr3.png" crc="3770699282" ref="index"/>
-    <file name="nab-test4-u13174-fr3.png" crc="4058832400" ref="index"/>
-    <file name="nab-test4-u7555-fr4.png" crc="176586245" ref="index"/>
-    <file name="nab-test4-u7555-fr5.png" crc="17701300" ref="index"/>
+    <file name="nab-test4-u7555-fr.png" crc="39756209" ref="case-study-01:case-study-02:case-study-03:case-study-04"/>
+    <file name="nab.png" crc="4290178161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="usyd.png" crc="388765492" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bupa.png" crc="4240134487" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ingd.png" crc="173551665" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nab-u7555-fr.png" crc="4122824781" ref="index"/>
+    <file name="usyd-u13174-fr.png" crc="4191222736" ref="index"/>
+    <file name="bupa-u13356-fr.png" crc="226016196" ref="index"/>
+    <file name="ingd-u13365-fr.png" crc="419968864" ref="index"/>
+    <file name="nab-u7555-fr2.png" crc="62645490" ref="index"/>
+    <file name="usyd-u13174-fr2.png" crc="4219370238" ref="index"/>
+    <file name="bupa-u13356-fr2.png" crc="280566033" ref="index"/>
+    <file name="ingd-u13365-fr2.png" crc="148962436" ref="index"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="14129631"/>
-    <file name="master_a-master.css" crc="3809193390" ref="index:case-study-01:case-study-03:case-study-04:case-study-02"/>
+    <file name="master_a-master.css" crc="502979996" ref="index:case-study-01:case-study-03:case-study-04:case-study-02"/>
     <file name="nomq_preview_master_a-master.css" crc="3895356531" ref="index:case-study-01:case-study-03:case-study-04:case-study-02"/>
-    <file name="index.css" crc="246594427" ref="index"/>
-    <file name="nomq_index.css" crc="3942270855" ref="index"/>
+    <file name="index.css" crc="279161783" ref="index"/>
+    <file name="nomq_index.css" crc="3778785425" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="case-study-01.css" crc="3805796688" ref="case-study-01"/>
     <file name="nomq_case-study-01.css" crc="4252184550" ref="case-study-01"/>
@@ -45,7 +70,7 @@
     <file name="require.js" crc="7928878" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:case-study-01:case-study-02:case-study-03:case-study-04"/>
   </folder>
-  <file name="index.html" crc="4030597423" seo="true" mt="1566749383136" redirect="true"/>
+  <file name="index.html" crc="11027278" seo="true" mt="1566832182725" redirect="true"/>
   <file name="case-study-01.html" crc="1796764" seo="true" mt="1566749109722" redirect="true"/>
   <file name="case-study-02.html" crc="4115399852" seo="true" mt="1566749484095" redirect="true"/>
   <file name="case-study-03.html" crc="271560913" seo="true" mt="1566749499986" redirect="true"/>
